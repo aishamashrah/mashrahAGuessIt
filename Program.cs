@@ -1,6 +1,11 @@
 ﻿//aisha mashrah
 //10/19/22
-//
+//Create a guessing game where the user can choose easy, medium, or hard mode before they begin and then ask the player if they want to play again.
+//peer review 
+
+bool playAgain = true;
+while(playAgain){
+
 int easyLvl = 101;
             int mediumLvl = 501;
             int hardLvl = 1001;
@@ -92,3 +97,17 @@ int easyLvl = 101;
             {
                 Console.WriteLine("You guess is too low!!!");
             }
+            Console.WriteLine(" ");
+            Console.WriteLine("Would you like to play again? Yes or No");
+            string rePlay = Console.ReadLine();
+            if(rePlay == "YES" || rePlay == "Yes" || rePlay == "yes"){
+             playAgain = true;
+            Console.Clear();
+            Console.WriteLine( "play agian" );
+            Console.WriteLine( " " );
+            } 
+            if(rePlay == "NO" || rePlay == "no"){
+            playAgain = false;
+            Console.WriteLine( "thank you" );
+     } 
+}
