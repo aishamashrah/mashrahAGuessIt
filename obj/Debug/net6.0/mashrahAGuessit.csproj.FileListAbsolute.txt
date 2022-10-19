@@ -1,0 +1,15 @@
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/bin/Debug/net6.0/mashrahAGuessit
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/bin/Debug/net6.0/mashrahAGuessit.deps.json
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/bin/Debug/net6.0/mashrahAGuessit.runtimeconfig.json
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/bin/Debug/net6.0/mashrahAGuessit.dll
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/bin/Debug/net6.0/mashrahAGuessit.pdb
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.csproj.AssemblyReference.cache
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.AssemblyInfoInputs.cache
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.AssemblyInfo.cs
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.csproj.CoreCompileInputs.cache
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.dll
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/refint/mashrahAGuessit.dll
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.pdb
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/mashrahAGuessit.genruntimeconfig.cache
+/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/Debug/net6.0/ref/mashrahAGuessit.dll
