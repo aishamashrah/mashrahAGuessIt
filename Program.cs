@@ -1,7 +1,8 @@
 ﻿//aisha mashrah
 //10/19/22
+//Guess It challenge 
 //Create a guessing game where the user can choose easy, medium, or hard mode before they begin and then ask the player if they want to play again.
-//peer review 
+//peer review -
 
 bool playAgain = true;
 while(playAgain){
