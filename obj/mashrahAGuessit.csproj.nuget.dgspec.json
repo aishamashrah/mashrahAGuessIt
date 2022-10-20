@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aishamashrah/Desktop/homework/mashrahAGuessit/mashrahAGuessit.csproj": {}
+    "/Users/samlaguna/Documents/Level1/GitRepository/mashrahAGuessIt/mashrahAGuessit.csproj": {}
   },
   "projects": {
-    "/Users/aishamashrah/Desktop/homework/mashrahAGuessit/mashrahAGuessit.csproj": {
+    "/Users/samlaguna/Documents/Level1/GitRepository/mashrahAGuessIt/mashrahAGuessit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aishamashrah/Desktop/homework/mashrahAGuessit/mashrahAGuessit.csproj",
+        "projectUniqueName": "/Users/samlaguna/Documents/Level1/GitRepository/mashrahAGuessIt/mashrahAGuessit.csproj",
         "projectName": "mashrahAGuessit",
-        "projectPath": "/Users/aishamashrah/Desktop/homework/mashrahAGuessit/mashrahAGuessit.csproj",
-        "packagesPath": "/Users/aishamashrah/.nuget/packages/",
-        "outputPath": "/Users/aishamashrah/Desktop/homework/mashrahAGuessit/obj/",
+        "projectPath": "/Users/samlaguna/Documents/Level1/GitRepository/mashrahAGuessIt/mashrahAGuessit.csproj",
+        "packagesPath": "/Users/samlaguna/.nuget/packages/",
+        "outputPath": "/Users/samlaguna/Documents/Level1/GitRepository/mashrahAGuessIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
+          "/Users/samlaguna/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
